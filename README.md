@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Srithin
 
 Full Stack Developer | AI Enthusiast
