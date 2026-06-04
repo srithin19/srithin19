@@ -20,8 +20,8 @@ Passionate software engineer focused on building scalable web applications, AI-p
 
 ## 🎨 Frontend Development
 
-* Angular
-* RxJS
+* React.js
+* Next.js
 * HTML5
 * CSS3
 * Tailwind CSS
