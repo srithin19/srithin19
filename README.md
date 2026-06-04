@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Srithin
 
-### Frontend Engineer | Full Stack Developer | AI Enthusiast
+Full Stack Developer | AI Enthusiast
 
 Passionate software engineer focused on building scalable web applications, AI-powered products, and intuitive user experiences. I enjoy combining modern frontend technologies with AI to create solutions that solve real-world problems.
 
