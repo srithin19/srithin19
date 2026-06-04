@@ -59,19 +59,6 @@ Passionate software engineer focused on building scalable web applications, AI-p
 * VS Code
 * Linux
 
-## 🚀 Featured Projects
-
-### 🤖 AI Job Aggregator
-
-A centralized platform that uses AI agents to collect and personalize job recommendations from multiple job portals.
-
-### 👨‍💼 Employee Portfolio Management System
-
-A full-stack application for managing employee skills, projects, certifications, and professional growth.
-
-### 🌐 Personal Portfolio Website
-
-A modern portfolio showcasing projects, skills, achievements, and technical expertise.
 
 ## 📊 GitHub Stats
 
