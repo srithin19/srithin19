@@ -34,6 +34,7 @@ Passionate software engineer focused on building scalable web applications, AI-p
 * Express.js
 * REST APIs
 * JWT Authentication
+* Fast API's
 
 ## 🤖 AI & Machine Learning
 
